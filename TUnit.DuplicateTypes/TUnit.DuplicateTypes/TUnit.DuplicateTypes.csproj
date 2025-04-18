@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net9.0</TargetFramework>
+        <RootNamespace>TUnit.Multiple.Protobuf</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="TUnit" Version="0.19.84" />
+        <PackageReference Include="WireMock.Net" Version="1.7.4" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\WebApp\WebApp.csproj"/>
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TUnit.DuplicateTypes", "TUnit.DuplicateTypes\TUnit.DuplicateTypes\TUnit.DuplicateTypes.csproj", "{91748ED5-ED24-4D89-9F88-AA9F4A8E1E42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "TUnit.DuplicateTypes\WebApp\WebApp.csproj", "{24FC0A69-0E1D-4AF6-A4E0-B3D5FC0283BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91748ED5-ED24-4D89-9F88-AA9F4A8E1E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91748ED5-ED24-4D89-9F88-AA9F4A8E1E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91748ED5-ED24-4D89-9F88-AA9F4A8E1E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91748ED5-ED24-4D89-9F88-AA9F4A8E1E42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24FC0A69-0E1D-4AF6-A4E0-B3D5FC0283BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FC0A69-0E1D-4AF6-A4E0-B3D5FC0283BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FC0A69-0E1D-4AF6-A4E0-B3D5FC0283BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FC0A69-0E1D-4AF6-A4E0-B3D5FC0283BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
